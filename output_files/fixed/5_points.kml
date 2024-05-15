@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="353">
+        <Placemark id="355">
+            <name>2024-04-13T16:51:36.417342+00:00</name>
+            <Point id="354">
+                <coordinates>34.81357194891846,32.168809237159586,53.21286019869149</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>2024-04-13T16:51:37.417342+00:00</name>
+            <Point id="356">
+                <coordinates>34.81360954283146,32.168792617978625,47.66303496994078</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>2024-04-13T16:51:38.417342+00:00</name>
+            <Point id="358">
+                <coordinates>34.81356616901039,32.16877386670109,52.65713316202164</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>2024-04-13T16:51:39.417343+00:00</name>
+            <Point id="360">
+                <coordinates>34.813575196812636,32.168765463433935,44.102202931419015</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>2024-04-13T16:51:40.417343+00:00</name>
+            <Point id="362">
+                <coordinates>34.81357777762889,32.168817909479806,34.9078431436792</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>2024-04-13T16:51:41.417343+00:00</name>
+            <Point id="364">
+                <coordinates>34.81356079970457,32.16879176892562,33.654904461465776</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>2024-04-13T16:51:42.417343+00:00</name>
+            <Point id="366">
+                <coordinates>34.81353268610272,32.16881793186149,32.73454788327217</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>2024-04-13T16:51:43.417343+00:00</name>
+            <Point id="368">
+                <coordinates>34.81353774883584,32.16881577891891,50.5366487801075</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>2024-04-13T16:51:44.417343+00:00</name>
+            <Point id="370">
+                <coordinates>34.81361091873057,32.16880366866318,40.91259936057031</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>2024-04-13T16:51:45.417344+00:00</name>
+            <Point id="372">
+                <coordinates>34.813619996327624,32.16882424842099,37.84224387072027</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>2024-04-13T16:51:46.417344+00:00</name>
+            <Point id="374">
+                <coordinates>34.81358298362605,32.16882978555562,58.7907881597057</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>2024-04-13T16:51:47.417344+00:00</name>
+            <Point id="376">
+                <coordinates>34.81357242790364,32.168802744862035,41.01450521219522</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>2024-04-13T16:51:48.417344+00:00</name>
+            <Point id="378">
+                <coordinates>34.81354704036379,32.16883883238833,57.599157431162894</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>2024-04-13T16:51:49.417344+00:00</name>
+            <Point id="380">
+                <coordinates>34.81355750140229,32.1688262991941,50.04363540653139</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>2024-04-13T16:51:50.417344+00:00</name>
+            <Point id="382">
+                <coordinates>34.81360793083521,32.168803510221714,60.7804643958807</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>2024-04-13T16:51:51.417344+00:00</name>
+            <Point id="384">
+                <coordinates>34.81352414710898,32.16878552233391,73.18382614012808</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>2024-04-13T16:51:52.417344+00:00</name>
+            <Point id="386">
+                <coordinates>34.81353829200053,32.168810913634296,66.87252803798765</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>2024-04-13T16:51:53.417345+00:00</name>
+            <Point id="388">
+                <coordinates>34.81353089092141,32.168782140309574,68.91400977410376</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>2024-04-13T16:51:54.417345+00:00</name>
+            <Point id="390">
+                <coordinates>34.81352792929172,32.168772393352334,64.64240314252675</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>2024-04-13T16:51:55.417345+00:00</name>
+            <Point id="392">
+                <coordinates>34.81355590915933,32.16882013971506,64.24093538429588</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
