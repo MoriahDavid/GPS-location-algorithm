@@ -9,3 +9,7 @@ The algorithm estimates the position of a GPS receiver using raw data from multi
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoriahDavid/GPS-location-algorithm/blob/main/gps.ipynb) Open the project in Colab<br />
 Run the preparation section. <br />
 In the solution section, choose the file type you want to run and continue running all the cells.<br />
+
+![image](https://github.com/MoriahDavid/GPS-location-algorithm/assets/93945532/c8be5eba-7021-4ac1-89b9-ddd973610920)
+
+![image](https://github.com/MoriahDavid/GPS-location-algorithm/assets/93945532/5a4c0db5-98c0-470b-bac1-5b9abd72e889)
