@@ -4,7 +4,8 @@ This assignment focuses on the basic principles of GNSS and we asked to implemen
 <br /><br />
 
 ### Our Positioning Algorithm: :globe_with_meridians:
-The algorithm estimates the position of a GPS receiver using raw data from multiple satellites, leveraging the least squares optimization method.<br /> The core of the algorithm is a weighted least squares optimization, where the differences between observed and calculated pseudo-ranges are minimized. values are weighted by the square root of the normalized CN0 values, giving more importance to higher-quality signals. <br />The result of the algorithm provides an estimated ECEF position (X, Y, Z) of the GPS receiver and the clock bias.
+The algorithm estimates the position of a GPS receiver using raw data from multiple satellites, leveraging the least squares optimization method.<br /> The core of the algorithm is a weighted least squares optimization, where the differences between observed and calculated pseudo-ranges are minimized. values are weighted by the square root of the normalized CN0 values, giving more importance to higher-quality signals. <br />The result of the algorithm provides an estimated ECEF position (X, Y, Z) of the GPS receiver and the clock bias.<br />
+Our code computes the positions with 5 satellites with the highest CN0 value.
 <br /><br />
 
 ### How to run? :receipt:
